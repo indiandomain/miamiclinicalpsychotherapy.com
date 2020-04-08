@@ -1,4 +1,4 @@
-Sitemap: http://www.miamiclinicalpsychotherapy.com/sitemap.xml
+Sitemap: https://miamiclinicalpsychotherapy.com/sitemap.xml
 
 User-agent: *
 Disallow: /cgi-bin/
